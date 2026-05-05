@@ -1,6 +1,5 @@
 # GoodWe Challenge Sprint 1
 
----
 ## Índice
 - [Equipe](#-equipe)
 - [Problema e Justificativa](#-problema-e-justificativa)
@@ -20,14 +19,7 @@
   - [Impacto Econômico](#impacto-econômico)
   - [Impacto Social](#impacto-social)
 - [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-  - [Banco de Dados](#banco-de-dados)
-  - [Inteligência Artificial / Algoritmos](#inteligência-artificial--algoritmos)
-  - [Integrações e APIs](#integrações-e-apis)
 - [Considerações Finais](#-considerações-finais)
-
----
 
 ## Equipe
 - Gabriela Angel Silva — RM: 570808
@@ -36,8 +28,6 @@
 - Otávio Santos — RM: 570225
 - Tiago Muhlmann — RM: 569569
 - Wesley Marques — RM: 573915
-
----
 
 ## Problema e Justificativa
 
@@ -49,8 +39,6 @@
 
 ### Justificativa
 [ Adicione o texto aqui ]
-
----
 
 ## Proposta de Solução
 
@@ -64,8 +52,6 @@
 
 ### Diferenciais da Solução
 [ Adicione o texto aqui ]
-
----
 
 ## Sustentabilidade e Energias Renováveis
 
@@ -93,8 +79,6 @@
 - Vehicle-to-Grid (V2G)  
   [ Adicione o texto aqui ]
 
----
-
 ## Impactos Esperados
 
 ### Impacto Ambiental
@@ -106,26 +90,8 @@
 ### Impacto Social
 [ Adicione o texto aqui ]
 
----
-
 ## Tecnologias Utilizadas
-
-### Backend
-[ Adicione o texto aqui ]
-
-### Frontend
-[ Adicione o texto aqui ]
-
-### Banco de Dados
-[ Adicione o texto aqui ]
-
-### Inteligência Artificial / Algoritmos
-[ Adicione o texto aqui ]
-
-### Integrações e APIs
-[ Adicione o texto aqui ]
-
----
+[ TBD como vamso explicar essa secao ]
 
 ## Considerações Finais
 [ Adicione o texto aqui ]
