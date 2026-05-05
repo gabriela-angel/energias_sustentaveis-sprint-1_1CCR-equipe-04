@@ -1,7 +1,14 @@
 # GoodWe Challenge Sprint 1
 
+## Equipe
+- Gabriela Angel Silva — RM: 570808
+- Izabelly Menezes — RM: 570673
+- Marcos Paulo Sampaio — RM: 573987
+- Otávio Santos — RM: 570225
+- Tiago Muhlmann — RM: 569569
+- Wesley Marques — RM: 573915
+
 ## Índice
-- [Equipe](#-equipe)
 - [Problema e Justificativa](#-problema-e-justificativa)
   - [Problema Central](#problema-central)
   - [Contexto e Motivação](#contexto-e-motivação)
@@ -20,14 +27,6 @@
   - [Impacto Social](#impacto-social)
 - [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [Considerações Finais](#-considerações-finais)
-
-## Equipe
-- Gabriela Angel Silva — RM: 570808
-- Izabelly Menezes — RM: 570673
-- Marcos Paulo Sampaio — RM: 573987
-- Otávio Santos — RM: 570225
-- Tiago Muhlmann — RM: 569569
-- Wesley Marques — RM: 573915
 
 ## Problema e Justificativa
 
