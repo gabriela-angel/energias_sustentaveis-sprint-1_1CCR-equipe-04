@@ -1,4 +1,4 @@
-# GoodWe Challenge Sprint 1
+# GoodWe Challenge Sprint 1 - 1CCR Equipe 04
 
 ## Equipe
 - Gabriela Angel Silva — RM: 570808
