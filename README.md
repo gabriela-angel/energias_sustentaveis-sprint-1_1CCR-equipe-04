@@ -242,26 +242,48 @@ Por fim, o quinto fundamento é a longevidade tecnológica como sustentabilidade
 
 ## REFERÊNCIAS
 [1] ABVE — Associação Brasileira de Veículos Elétricos. Dados de mercado 2025. Disponível em: https://abve.org.br/abve-data/
+
 [2] AutoIndústria. A nova geografia da recarga elétrica no Brasil. Fevereiro de 2026. Disponível em: https://www.autoindustria.com.br/2026/02/24/a-nova-geografia-da-recarga-eletrica-no-brasil/
+
 [3] Cenário Energia. Infraestrutura de recarga rápida para veículos elétricos cresce 59% em seis meses no Brasil. Setembro de 2025. Disponível em: https://cenarioenergia.com.br/2025/09/12/infraestrutura-de-recarga-rapida-para-veiculos-eletricos-cresce-59-em-seis-meses-no-brasil/
+
 [4] GoodWe Technologies. HCA Series EV Charger. Disponível em: https://en.goodwe.com/hca-series
+
 [5] GoodWe Technologies. GoodWe is Accelerating the Global Transition Toward a New Power System. Novembro de 2025. Disponível em: https://en.goodwe.com/goodwe-is-accelerating-the-global-transition-toward-a-new-power-system
+
 [6] Open Charge Alliance (OCA). Open Charge Point Protocol — OCPP. Disponível em: https://openchargealliance.org/protocols/open-charge-point-protocol/
+
 [7] Wikipedia. Open Charge Point Protocol. Disponível em: https://en.wikipedia.org/wiki/Open_Charge_Point_Protocol
+
 [8] Monta. Open charge point protocol (OCPP): Definition, versions, benefits, and software. 2026. Disponível em: https://monta.com/en/blog/ocpp/
+
 [9] EVBoosters. OCPP explained. Agosto de 2024. Disponível em: https://evboosters.com/ev-charging-academy/articles-blogs/ocpp-explained/
+
 [10] Amina Charging. A Complete Guide to OCPP for EV Charging. Dezembro de 2025. Disponível em: https://aminacharging.com/articles/complete-guide-ocpp-ev-charging/
+
 [11] Uland Power. What is OCPP? The Complete Guide to Open Charge Point Protocol for EV Charging. 2026. Disponível em: https://www.ulandpower.com/blog/what-is-ocpp-ev-charging-guide/
+
 [12] Driivz. How AI is Transforming EV Charging Networks Globally. Dezembro de 2024. Disponível em: https://driivz.com/blog/ai-transformative-role-in-ev-charging-networks/
+
 [13] Kyriakopoulos, I.; Theodoridis, Y. Electric Vehicle Charging Load Forecasting: An Experimental Comparison of Machine Learning Methods. ArXiv, Abril de 2026. Disponível em: https://arxiv.org/pdf/2512.17257
+
 [14] MDPI Electronics. Artificial Intelligence-Driven Optimal Charging Strategy for Electric Vehicles and Impacts on Electric Power Grid. Abril de 2025. Disponível em: https://www.mdpi.com/2079-9292/14/7/1471
+
 [15] MDPI Energies. Machine Learning-Based Electric Vehicle Charging Demand Forecasting: A Systematized Literature Review. Setembro de 2025. Disponível em: https://www.mdpi.com/1996-1073/18/17/4779
+
 [16] MDPI Engineering Proceedings. Dynamic Pricing for Load Balancing in Electric Vehicle Charging Stations: An Integration with Open Charge Point Protocol. Outubro de 2025. Disponível em: https://www.mdpi.com/2673-4591/112/1/11
+
 [17] Transport Topics. EV Charging Rates Go Dynamic. Maio de 2025. Disponível em: https://www.ttnews.com/articles/ev-charging-rates-go-dynamic
+
 [18] Driivz. Payment Terminals for EV Charging. Fevereiro de 2026. Disponível em: https://driivz.com/glossary/payment-terminals/
+
 [19] ANEEL. Resolução Normativa nº 1.000, de 7 de dezembro de 2021. Disponível em: https://www2.aneel.gov.br/cedoc/ren20211000.html
+
 [20] Voltbras. Legislação Brasileira sobre eletropostos: o que saber antes de investir. Fevereiro de 2026. Disponível em: https://voltbras.com/normas-tecnicas-e-legislacao/legislacao-brasileira-sobre-eletropostos-o-que-saber-antes-de-investir/
+
 [21] Gazeta do Povo. Rede de recarga cresce para acompanhar alta dos carros elétricos. Março de 2026. Disponível em: https://www.gazetadopovo.com.br/energia/carros-eletricos-rede-recarga-avanca-brasil-acompanhar-alta/
+
 [22] SolarQuotes. 15 Years Of GoodWe Solar Gear. Novembro de 2025. Disponível em: https://www.solarquotes.com.au/blog/goodwe-solar-anniversary-mb3313/
+
 [23] OpenOCPP — Open-source embedded software for EV chargers. Disponível em: https://openocpp.com/
 [24] NCBi/PMC. Optimizing EV charging stations and power trading with deep learning and path optimization. 2025. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12250350/
